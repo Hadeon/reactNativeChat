@@ -1,7 +1,7 @@
 {
-  "name": "basic-chat-starter",
+  "name": "reactNativeChat",
   "version": "0.0.0",
-  "description": "The starter for our basic chat application",
+  "description": "Basic chat application",
   "author": null,
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
